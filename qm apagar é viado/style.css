@@ -10,6 +10,12 @@ header{
 .cabeçalho-imagem{
     width: 10%;
 }
+.escola{
+    background-image:
+    color: ;
+    display:flex;
+    justify-content:center;
+}
 .cabeçalho-lista-item{
     display: inline-block;
     margin: 0% 16px;
